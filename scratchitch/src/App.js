@@ -1,10 +1,10 @@
 import './App.css';
+import {TopNav} from './components/nav';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-      </header>
+      <TopNav />
     </div>
   );
 }
