@@ -1,5 +1,5 @@
 import './App.css';
-import {TopNav} from './components/nav';
+import {TopNav} from './components/navigation/nav';
 
 function App() {
   return (
